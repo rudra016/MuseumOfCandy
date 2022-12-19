@@ -1,2 +1,2 @@
 # MuseumOfCandy.github.io
-Small Project to Understand Bootstrap :)
+Small Project to Understand Bootstrap5 :)
